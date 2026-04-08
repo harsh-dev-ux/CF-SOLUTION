@@ -5,7 +5,7 @@
 <h1 align="center">⚡ Codeforces Solutions</h1>
 
 <p align="center">
-  <b>My competitive programming journey — one problem at a time.</b>
+  <b>My competitive programming solutions — clean, tested, and accepted.</b>
 </p>
 
 <p align="center">
@@ -18,61 +18,34 @@
 
 ## 📖 About
 
-This repository contains my solutions to [Codeforces](https://codeforces.com/) problems, written in **C++**. I'm working through problems to strengthen my problem-solving and competitive programming skills.
-
-## 📊 Progress
-
-| Total Problems | Solved | Completion |
-|:-:|:-:|:-:|
-| 130 | 11 | ![](https://geps.dev/progress/8) |
-
-## 📂 Structure
-
-Each file is named as `XX_problem_name.cpp` where `XX` is the problem number in my solving order.
-
-```
-CF-SOLUTION/
-├── 01_watermelon.cpp
-├── 02_way_too_long_words.cpp
-├── 03_team.cpp
-├── ...
-└── 129_skibidus_and_amog'u.cpp
-```
+Solutions to [Codeforces](https://codeforces.com/) problems, written in **C++**. All solutions are accepted on the judge.
 
 ## ✅ Solved Problems
 
-| # | Problem | Status |
-|---|---------|--------|
-| 01 | [Watermelon](01_watermelon.cpp) | ✅ |
-| 02 | [Way Too Long Words](02_way_too_long_words.cpp) | ✅ |
-| 03 | [Team](03_team.cpp) | ✅ |
-| 04 | [Bit++](04_bit++.cpp) | ✅ |
-| 05 | [Next Round](05_next_round.cpp) | ✅ |
-| 06 | [Domino Piling](06_domino_piling.cpp) | ✅ |
-| 09 | [Boy or Girl](09_boy_or_girl.cpp) | ✅ |
-| 11 | [Word Capitalization](11_word_capitalization.cpp) | ✅ |
-| 22 | [Beautiful Year](22_beautiful_year.cpp) | ✅ |
-| 46 | [Sum](46_sum.cpp) | ✅ |
-| 50 | [Yes or Yes?](50_yes_or_yes.cpp) | ✅ |
+| Problem | Solution |
+|---------|----------|
+| Watermelon | [watermelon.cpp](solutions/watermelon.cpp) |
+| Way Too Long Words | [way_too_long_words.cpp](solutions/way_too_long_words.cpp) |
+| Team | [team.cpp](solutions/team.cpp) |
+| Bit++ | [bit++.cpp](solutions/bit++.cpp) |
+| Next Round | [next_round.cpp](solutions/next_round.cpp) |
+| Domino Piling | [domino_piling.cpp](solutions/domino_piling.cpp) |
+| Boy or Girl | [boy_or_girl.cpp](solutions/boy_or_girl.cpp) |
+| Word Capitalization | [word_capitalization.cpp](solutions/word_capitalization.cpp) |
+| Beautiful Year | [beautiful_year.cpp](solutions/beautiful_year.cpp) |
+| Sum | [sum.cpp](solutions/sum.cpp) |
+| Yes or Yes? | [yes_or_yes.cpp](solutions/yes_or_yes.cpp) |
 
 ## 🛠️ How to Run
 
 ```bash
-g++ -o solution XX_problem_name.cpp
-./solution
-```
-
-Or compile with optimizations (like competitive programming judges):
-
-```bash
-g++ -O2 -std=c++17 -o solution XX_problem_name.cpp
+g++ -O2 -std=c++17 -o solution solutions/watermelon.cpp
 ./solution
 ```
 
 ## 🤝 Connect
 
 - **GitHub**: [@harsh-dev-ux](https://github.com/harsh-dev-ux)
-- **Codeforces**: [Profile](https://codeforces.com/)
 
 ---
 
