@@ -4,13 +4,13 @@ This repo contains all accepted submissions of mine in my entire CP career (from
 
 ---
 
-### 🏆 [Codeforces](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/codeforces)
-### 🌟 [CodeChef](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/codechef)
-### 💎 [Atcoder](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/atcoder)
+### 🏆 [Codeforces](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/codeforces) — [apela](https://codeforces.com/profile/apela)
+### 🌟 [CodeChef](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/codechef) — [apela_123](https://www.codechef.com/users/apela_123)
+### 💎 [Atcoder](file:///c:/Users/apela-dev/Desktop/CF-SOLUTION/atcoder) — [apela](https://atcoder.jp/users/apela)
 
 ---
 
-##  My CP Template
+## 🛠️ My C++ Template
 
 ```cpp
 #include<bits/stdc++.h>
