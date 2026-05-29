@@ -13,7 +13,7 @@ NOTE:- i dont update it regularly so u can check my acc given below (but i'll tr
 
 ---
 
-## 🛠️ My C++ Template
+##  My C++ Template
 
 ```cpp
 #include<bits/stdc++.h>
